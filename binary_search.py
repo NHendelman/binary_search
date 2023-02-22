@@ -213,7 +213,7 @@ def argmin_simple(f, epsilon=1e-3):
     you do not need to specify lo and hi.
 
     NOTE:
-    There is nothing to implement for this function.
+    There is nothing to implement test addition for this function.
     If you implement the find_boundaries function correctly,
     then this function will work correctly too.
     '''
